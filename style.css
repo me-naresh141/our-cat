@@ -128,6 +128,7 @@ table {
 }
 
 /* custom style */
+
 .container {
   width: 80%;
   margin: 0 auto;
@@ -140,7 +141,6 @@ table {
 }
 h1 {
   font-size: 65px;
-  text-transform: capitalize;
   padding: 20px;
 }
 
@@ -179,4 +179,3 @@ p {
 .pera {
   margin: 8% 0;
 }
-/* footer */
